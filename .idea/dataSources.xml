@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="jvvwfmik@fizzy-cherry.db.elephantsql.com" uuid="66e95fa5-7496-4a16-b0e3-4b79c3095f8b">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://fizzy-cherry.db.elephantsql.com:5432/jvvwfmik</jdbc-url>
+    </data-source>
+  </component>
+</project>
